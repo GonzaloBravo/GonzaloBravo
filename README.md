@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------
 ### Mi nombre es __Gonzalo__
 --------------------------------------------------------------------------
-Y soy estudiante de la Universidad Nacional de Rio Negro, sede Andina
+Soy estudiante de la Universidad Nacional de Rio Negro, sede Andina
 
 :computer: __Ingenieria en Computación__ :computer:
 
