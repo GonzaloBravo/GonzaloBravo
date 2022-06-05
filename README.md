@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-Mi nombre es __Gonzalo__
+### Mi nombre es __Gonzalo__
 
 Y soy estudiante de la Universidad Nacional de Rio Negro, sede Andina
 
