@@ -4,7 +4,7 @@ Mi nombre es Gonzalo
 
 Y soy estudiante de la Universidad Nacional de Rio Negro, sede Andina
 
---Ingenieria en Computación--
+__Ingenieria en Computación__
 
 <!--
 **GonzaloBravo/GonzaloBravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
