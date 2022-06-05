@@ -7,7 +7,8 @@ Y soy estudiante de la Universidad Nacional de Rio Negro, sede Andina
 __Ingenieria en Computación__ 💻
 
 Juego al Básquet 🏀
- y... también escribo música y toco el piano
+
+y... también escribo música :musical_score: y toco el piano :musical_keyboard:
  
  📫 gonzalobravo222@gmail.com
 <!--
