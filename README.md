@@ -4,13 +4,13 @@ Mi nombre es __Gonzalo__
 
 Y soy estudiante de la Universidad Nacional de Rio Negro, sede Andina
 
-__Ingenieria en Computación__ 💻
+:computer: __Ingenieria en Computación__ :computer:
 
-Juego al Básquet 🏀
+Juego al Básquet :basketball:
 
 y... también escribo música :musical_score: y toco el piano :musical_keyboard:
  
- 📫 gonzalobravo222@gmail.com
+:mailbox: gonzalobravo222@gmail.com
 <!--
 **GonzaloBravo/GonzaloBravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
