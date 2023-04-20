@@ -19,9 +19,6 @@ y... también escribo música :musical_score: y toco el piano :musical_keyboard:
  
 :mailbox: gonzalobravo222@gmail.com 
 
-[Facebook](https://www.facebook.com/gonzalo.bravo.353/)
-
-[Instagram](https://www.instagram.com/gonzalo_bravo22/)
 
 
 
