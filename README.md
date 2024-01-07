@@ -1,16 +1,15 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola!</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola! Mi nombre es Gonzalo</h2>
 
- <!-- ## 👋 &nbsp;Hola! -->
---------------------------------------------------------------------------
-### Mi nombre es __Gonzalo__
---------------------------------------------------------------------------
+ <!-- ## 👋 &nbsp;Hola! Mi nombre es Gonzalo -->
+
 Soy estudiante de la Universidad Nacional de Rio Negro, sede Andina
 
 :computer: __Ingenieria en Computación__ :computer:
 
+![Badge](https://bit.ly/icom-badge)
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -24,9 +23,21 @@ Soy estudiante de la Universidad Nacional de Rio Negro, sede Andina
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-También juego al Básquet :basketball: escribo música :musical_score: y toco el piano :musical_keyboard:
- 
-:mailbox: gonzalobravo222@gmail.com 
+
+
+- También juego al Básquet :basketball: escribo música :musical_score: y toco el piano :musical_keyboard:
+
+
+
+:mailbox: Connect with Me
+
+- Email: gonzalobravo222@gmail.com
+  
+- LinkedIn: <a href="https://linkedin.com/in/gonzalo-bravo-3a540526a"><img src="https://img.shields.io/badge/-Gonzalo%20Bravo%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
 
 <p align="center">
 <a href="https://github.com/GonzaloBravo">
