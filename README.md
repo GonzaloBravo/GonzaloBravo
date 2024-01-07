@@ -1,6 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola! Mi nombre es Gonzalo</h2>
-
- <!-- ## 👋 &nbsp;Hola! Mi nombre es Gonzalo -->
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola! 👋 Mi nombre es Gonzalo</h2>
 
 Soy estudiante de la Universidad Nacional de Rio Negro, sede Andina
 
