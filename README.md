@@ -1,12 +1,17 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola! 👋 Mi nombre es Gonzalo</h2>
+Ingeniería en Computación | UNRN :computer:
 
-Soy estudiante de la Universidad Nacional de Rio Negro, sede Andina
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=55964635" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=55964635&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @GonzaloBravo" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=55964635&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
-:computer: __Ingenieria en Computación__ :computer:
+
 
 ![Badge](https://bit.ly/icom-badge)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -21,14 +26,6 @@ Soy estudiante de la Universidad Nacional de Rio Negro, sede Andina
 ![VS Code](https://img.shields.io/badge/IDE-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
-
-
-
-
-
-
-- También juego al Básquet :basketball: escribo música :musical_score: y toco el piano :musical_keyboard:
-
 
 
 :mailbox: Connect with Me
