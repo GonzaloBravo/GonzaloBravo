@@ -11,7 +11,7 @@
 
 
 ###
-
+<br>
 <h2 align="center">😎 Un poco sobre mí</h2>
 
 ###
@@ -21,11 +21,10 @@
   <img src="https://bit.ly/icom-badge" alt="Badge" />
 </div>
 
+
 ###
 <!-- ![Badge](https://bit.ly/icom-badge) -->
-
-
-
+<br>
 <h2 align="center">🚀 Tecnologías y lenguajes</h2>
 
 ###
@@ -35,7 +34,7 @@
 </p>
 
 ###
-
+<br>
 <div align="center">
   <h2 align="center">:computer: Proyectos</h2>
   
@@ -67,7 +66,7 @@
 
 ###
 
-
+<br>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
