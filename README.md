@@ -1,42 +1,74 @@
-Ingeniería en Computación | UNRN :computer:
+<h1 align="center">Hola!👋</h1>
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=106892002" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=106892002&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @GonzaloBravo" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=106892002&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-
-
-![Badge](https://bit.ly/icom-badge)
+<p align="center">
+    <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=106892002" target="_blank" style="display: block" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=106892002&image_size=auto&color_scheme=dark" width="771" height="auto">
+        <img alt="Dashboard stats of @GonzaloBravo" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=106892002&image_size=auto&color_scheme=light" width="771" height="auto">
+      </picture>
+    </a>
+</p>
 
 
+###
+
+<h2 align="center">😎 Un poco sobre mí</h2>
+
+###
+
+<p align="center">Mi nombre es Gonzalo Ezequiel Bravo, soy estudiante de Ingeniería en Computación en la Universidad Nacional de Río Negro</p>
+<div align="center">
+  <img src="https://bit.ly/icom-badge" alt="Badge" />
+</div>
+
+###
+<!-- ![Badge](https://bit.ly/icom-badge) -->
 
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![VS Code](https://img.shields.io/badge/IDE-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
 
+<h2 align="center">🚀 Tecnologías y lenguajes</h2>
 
-:mailbox: Connect with Me
+###
 
-- Email: gonzalobravo222@gmail.com
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,bootstrap,python,c,java,php,nodejs,vite,git,github,mysql,vscode,idea,eclipse,linux,ubuntu,arch,debian,arduino,raspberrypi,aws" />
+</p>
+
+###
+
+<div align="center">
+  <h2 align="center">:computer: Proyectos</h2>
   
-- LinkedIn: <a href="https://linkedin.com/in/gonzalo-bravo-3a540526a"><img src="https://img.shields.io/badge/-Gonzalo%20Bravo%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  ###
+  
+  <a href="https://github.com/GonzaloBravo/TP-Final-ISDP2025">
+    <img width="265"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GonzaloBravo&repo=TP-Final-ISDP2025&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
+  </a>
+  <a href="https://github.com/GonzaloBravo/TP-Final-Laboratorio-Sistemas-Embebidos-2025">
+    <img width="265"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GonzaloBravo&repo=TP-Final-Laboratorio-Sistemas-Embebidos-2025&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
+  </a>
+  <a href="https://github.com/GonzaloBravo/challenge_telecomX_data-science-latam">
+    <img width="265"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GonzaloBravo&repo=challenge_telecomX_data-science-latam&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
+  </a>
+  <a href="https://github.com/GonzaloBravo/challenge-telecomX2-data-science-latam">
+    <img width="265"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GonzaloBravo&repo=challenge-telecomX2-data-science-latam&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
+  </a>
+  <a href="https://github.com/GonzaloBravo/Garbage-Collector-en-C">
+    <img width="265"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GonzaloBravo&repo=Garbage-Collector-en-C&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
+  </a>
+
+</div>
+
+
+###
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-
 
 <p align="center">
 <a href="https://github.com/GonzaloBravo">
