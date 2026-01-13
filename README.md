@@ -1,4 +1,4 @@
-<h1 align="center">Hola!👋</h1>
+<h1 align="center">Hi there!👋</h1>
 
 <p align="center">
     <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=106892002" target="_blank" style="display: block" align="center">
@@ -12,11 +12,11 @@
 
 ###
 <br>
-<h2 align="center">😎 Un poco sobre mí</h2>
+<h2 align="center">😎 About me</h2>
 
 ###
 
-<p align="center">Mi nombre es Gonzalo Ezequiel Bravo, soy estudiante de Ingeniería en Computación en la Universidad Nacional de Río Negro</p>
+<p align="center">Hi! I'm Gonzalo Bravo, a Computer Engineering student at the National University of Río Negro</p>
 <div align="center">
   <img src="https://bit.ly/icom-badge" alt="Badge" />
 </div>
@@ -25,7 +25,7 @@
 ###
 <!-- ![Badge](https://bit.ly/icom-badge) -->
 <br>
-<h2 align="center">🚀 Tecnologías y lenguajes</h2>
+<h2 align="center">🚀 Technologies and programming languages</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 ###
 <br>
 <div align="center">
-  <h2 align="center">:computer: Proyectos</h2>
+  <h2 align="center">:computer: Projects</h2>
   
   ###
   
