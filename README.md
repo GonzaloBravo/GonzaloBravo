@@ -1,15 +1,5 @@
 <h1 align="center">Hi there!👋</h1>
 
-<p align="center">
-    <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=106892002" target="_blank" style="display: block" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=106892002&image_size=auto&color_scheme=dark" width="771" height="auto">
-        <img alt="Dashboard stats of @GonzaloBravo" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=106892002&image_size=auto&color_scheme=light" width="771" height="auto">
-      </picture>
-    </a>
-</p>
-
-
 ###
 <br>
 <h2 align="center">😎 About me</h2>
