@@ -20,7 +20,7 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,bootstrap,python,c,java,php,nodejs,vite,git,github,mysql,vscode,idea,eclipse,linux,ubuntu,arch,debian,arduino,raspberrypi,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,bootstrap,laravel,cypress,python,c,java,php,docker,nodejs,vite,git,github,mysql,vscode,idea,eclipse,linux,ubuntu,arch,debian,arduino,raspberrypi,aws" />
 </p>
 
 ###
