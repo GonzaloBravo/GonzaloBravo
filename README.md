@@ -15,12 +15,41 @@
 ###
 <!-- ![Badge](https://bit.ly/icom-badge) -->
 <br>
-<h2 align="center">🚀 Technologies and programming languages</h2>
+<h2 align="center">🚀 Technologies and programming languages I've worked with</h2>
 
-###
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,c,java,php" />
+</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,bootstrap,laravel,cypress,python,c,java,php,docker,nodejs,vite,git,github,mysql,vscode,idea,eclipse,linux,ubuntu,arch,debian,arduino,raspberrypi,aws" />
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,jquery,bootstrap,vite" />
+</p>
+
+### ⚙️ Backend Development & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,laravel,mysql" />
+</p>
+
+### 🛠️ DevOps, Tools & Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,idea,eclipse" />
+</p>
+
+### 🐧 Operating Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,debian" />
+</p>
+
+### 🔌 IoT & Hardware
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+### 🧪 Testing
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cypress" />
 </p>
 
 ###
